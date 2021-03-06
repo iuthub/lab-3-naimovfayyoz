@@ -1,0 +1,67 @@
+.fullbody{
+	border: 10px white solid;
+	background-color: white;
+	margin-right: 10%;
+	margin-left: 10%;
+	overflow: hidden;
+
+}
+.navigation{
+	background-color: #A8F0F0 ;
+
+}
+
+.navigation h2{
+	font-size: 14pt;
+
+}
+.purp{
+	border-bottom: 4px #009097 dotted;
+}
+
+.body{
+	border: 4px #C2E9E9  solid;
+	background-color: #E8FBFB;
+	padding: 5px 5px;
+	margin-top: 10px;
+	overflow: hidden;
+	
+
+
+
+}
+body{
+	background-image: url("images/background.gif") ;
+
+}
+.right{
+	text-align: right;
+}
+
+.images{
+	float: right;
+}
+.images{
+	text-align: right;
+}
+
+.first{
+	border: 5px #09ADA3 solid;
+	float: left;
+	margin-right: 10px;
+	width: 150px;
+	height: 150px;
+	background-color:#A8F0F0;
+	margin-top: 8px;
+	color: #245F5F;
+	padding: 2px 2px;
+	
+
+
+}
+
+
+.content{
+	padding-left: 180px; 
+}
+
